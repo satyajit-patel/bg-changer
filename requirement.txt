@@ -1,0 +1,5 @@
+npm create vit@latest
+cd <projectName>
+npm i
+npm run dev
+tailwind
